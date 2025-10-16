@@ -4,9 +4,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    font-family: Arial, sans-serif;
 }
 
-.container h1 {
+.container {
+    text-align: center;
+}
+
+h1 {
     font-size: 48px;
     font-weight: bold;
 }
